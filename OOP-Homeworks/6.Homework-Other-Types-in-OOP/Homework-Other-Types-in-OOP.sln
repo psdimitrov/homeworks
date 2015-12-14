@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_3_GenericList", "_3_GenericList\_3_GenericList.csproj", "{9CAD1C58-1AAE-43F7-B1C2-CA99906AC9BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1_GalacticGPS", "_1_GalacticGPS\_1_GalacticGPS.csproj", "{A412EA24-367D-417E-A8DD-2E1C5E40968A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2_FractionCalculator", "_2_FractionCalculator\_2_FractionCalculator.csproj", "{5923674F-6A84-499E-B6E5-F675C06F6012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4_GenericListVersion", "_4_GenericListVersion\_4_GenericListVersion.csproj", "{AF295CA0-150D-46A5-BEAD-5C8996C5E7E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CAD1C58-1AAE-43F7-B1C2-CA99906AC9BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CAD1C58-1AAE-43F7-B1C2-CA99906AC9BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CAD1C58-1AAE-43F7-B1C2-CA99906AC9BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CAD1C58-1AAE-43F7-B1C2-CA99906AC9BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A412EA24-367D-417E-A8DD-2E1C5E40968A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A412EA24-367D-417E-A8DD-2E1C5E40968A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A412EA24-367D-417E-A8DD-2E1C5E40968A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A412EA24-367D-417E-A8DD-2E1C5E40968A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5923674F-6A84-499E-B6E5-F675C06F6012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5923674F-6A84-499E-B6E5-F675C06F6012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5923674F-6A84-499E-B6E5-F675C06F6012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5923674F-6A84-499E-B6E5-F675C06F6012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF295CA0-150D-46A5-BEAD-5C8996C5E7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF295CA0-150D-46A5-BEAD-5C8996C5E7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF295CA0-150D-46A5-BEAD-5C8996C5E7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF295CA0-150D-46A5-BEAD-5C8996C5E7E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

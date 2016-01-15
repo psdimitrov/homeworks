@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 class SelectionSort
@@ -12,30 +13,26 @@ class SelectionSort
         Console.WriteLine(string.Join(", ",array));
     }
 
-    private static void SelectSort(int[] array)
-    {
-        int temp;
-        int min;
-        int index;
-        
-        for (int i = 0; i < array.Length; i++)
+    private static void SelectSort(IList<int> array)
+    {        
+        for (int i = 0; i < array.Count; i++)
         {
-            min = array[i];
-            index = i;            
+            var min = array[i];
+            var index = i;            
 
-            for (int j = i + 1; j < array.Length; j++)
+            for (int j = i + 1; j < array.Count; j++)
             {
-                if (array[j] < min)
+                if (array[j] >= min)
                 {
-                    min = array[j];
-                    index = j;
+                    continue;
                 }
+                min = array[j];
+                index = j;
             }
 
-            temp = array[i];
+            var temp = array[i];
             array[i] = array[index];
             array[index] = temp;
-
         }
     }
 }

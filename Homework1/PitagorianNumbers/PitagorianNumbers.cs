@@ -15,24 +15,24 @@ class PitagorianNumbers
             numbers[i] = int.Parse(Console.ReadLine());
             squares.Add(numbers[i] * numbers[i]);
         }
-        int c;
+       
         foreach (var a in numbers)
         {
             foreach (var b in numbers)
             {
-                if(a<=b && squares.Contains(a*a + b*b))
+                if (a <= b && squares.Contains(a * a + b * b))
                 {
-                    c = (int)Math.Sqrt((a * a + b * b));
-                    Console.WriteLine("{0}*{0} + {1}*{1} = {2}*{2}",a,b,c);
+                    var c = Math.Sqrt((a * a + b * b));
+                    Console.WriteLine("{0}*{0} + {1}*{1} = {2}*{2}", a, b, c);
                     noPitagorian = false;
                 }
             }
         }
+
         if (noPitagorian)
         {
             Console.WriteLine("No");
         }
-        
     }
 }
 

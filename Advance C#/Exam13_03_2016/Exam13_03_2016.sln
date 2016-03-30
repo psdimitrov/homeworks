@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrangeIntegers", "Exam13_03_2016\ArrangeIntegers.csproj", "{8C2BFAE2-4ABD-435F-9124-3F26FA039E13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMarkupLanguage", "BasicMarkupLanguage\BasicMarkupLanguage.csproj", "{C9D00206-4B72-49D6-BCE7-24F9385A8A43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monopoly", "Monopoly\Monopoly.csproj", "{0F82341C-1E29-4B28-95DE-253AC4F1994D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChampionsLeague", "ChampionsLeague\ChampionsLeague.csproj", "{E6CE81CD-A445-4804-BDC4-A2ED62DC015A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C2BFAE2-4ABD-435F-9124-3F26FA039E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2BFAE2-4ABD-435F-9124-3F26FA039E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2BFAE2-4ABD-435F-9124-3F26FA039E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2BFAE2-4ABD-435F-9124-3F26FA039E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9D00206-4B72-49D6-BCE7-24F9385A8A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D00206-4B72-49D6-BCE7-24F9385A8A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D00206-4B72-49D6-BCE7-24F9385A8A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D00206-4B72-49D6-BCE7-24F9385A8A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F82341C-1E29-4B28-95DE-253AC4F1994D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F82341C-1E29-4B28-95DE-253AC4F1994D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F82341C-1E29-4B28-95DE-253AC4F1994D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F82341C-1E29-4B28-95DE-253AC4F1994D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CE81CD-A445-4804-BDC4-A2ED62DC015A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CE81CD-A445-4804-BDC4-A2ED62DC015A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CE81CD-A445-4804-BDC4-A2ED62DC015A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CE81CD-A445-4804-BDC4-A2ED62DC015A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

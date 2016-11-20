@@ -1,0 +1,9 @@
+D:\SoftUni\OOP\Exam\Blobs\Blobs\bin\Debug\Blobs.exe.config
+D:\SoftUni\OOP\Exam\Blobs\Blobs\bin\Debug\Blobs.exe
+D:\SoftUni\OOP\Exam\Blobs\Blobs\bin\Debug\Blobs.pdb
+D:\SoftUni\OOP\Exam\Blobs\Blobs\obj\Debug\Blobs.csprojResolveAssemblyReference.cache
+D:\SoftUni\OOP\Exam\Blobs\Blobs\obj\Debug\Blobs.exe
+D:\SoftUni\OOP\Exam\Blobs\Blobs\obj\Debug\Blobs.pdb
+D:\SoftUni\Fundamentals Level\OOP\Exam\Blobs\Blobs\bin\Debug\Blobs.exe.config
+D:\SoftUni\Fundamentals Level\OOP\Exam\Blobs\Blobs\obj\Debug\Blobs.exe
+D:\SoftUni\Fundamentals Level\OOP\Exam\Blobs\Blobs\obj\Debug\Blobs.pdb
